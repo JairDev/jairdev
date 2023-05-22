@@ -1,7 +1,7 @@
 <h1 align="center">Hola me llamo Alfredo</h1>
 <h3 align="center">Soy desarrollador frontend</h3>
 
-- Da una vuelta por mi sitio web [https://jairdev.netlify.app/](https://jairdev.netlify.app/)
+- Da una vuelta por mi sitio web [alfredomoscoso](https://jairdev.netlify.app/)
 
 - Puedes enviarme un mail **devalfredomoscoso@gmail.com**
 
