@@ -7,8 +7,8 @@
 
 <h3 align="left">Contáctame</h3>
 <p align="left">
-<a href="https://twitter.com/jairdevep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jairdevep" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alfredomoscosofrontend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alfredomoscosofrontend" height="30" width="40" /></a>
+<a href="https://twitter.com/moscmendoza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jairdevep" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alfredo-moscoso-desarrollador-frontend/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alfredomoscosofrontend" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas</h3>
